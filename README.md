@@ -4,7 +4,7 @@ Autor: **Brainiac X** · Organización: [ExpertosTI](https://github.com/Expertos
 
 La app de la convención, aparte del landing. El landing de ASTRO SDQ 5TO sigue en su propio despliegue. Esta app se ve con la misma marca y vive en otro contenedor.
 
-La app que se despliega está en `app/`. La guía para el diseñador está en `piezas/` y `docs/`.
+La app que se despliega está en `app/`. Trae las 34 pantallas del tablero, de la portada al pase, el chat, la validación y la iconografía. El número de la esquina, o el botón 34, abre el mapa. La guía para el diseñador está en `piezas/` y `docs/`.
 
 ## Probar y desplegar
 
