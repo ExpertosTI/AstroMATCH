@@ -4,7 +4,30 @@ Autor: **Brainiac X** · Organización: [ExpertosTI](https://github.com/Expertos
 
 La app de la convención, aparte del landing. El landing de ASTRO SDQ 5TO sigue en su propio despliegue. Esta app se ve con la misma marca y vive en otro contenedor.
 
-Este repositorio es el tablero de trabajo con diseño. Aquí se deja cada pieza visual con el nombre exacto, y aquí se ve qué falta.
+La app que se despliega está en `app/`. La guía para el diseñador está en `piezas/` y `docs/`.
+
+## Probar y desplegar
+
+```bash
+cd app
+npm install
+npm run dev
+```
+
+Abre la dirección que imprime Vite. Google o Apple entran directo. En WhatsApp, cualquier código de 6 dígitos abre la puerta: todavía no hay servidor de mensajes.
+
+Publicar en Cloudflare, aparte del landing:
+
+```bash
+cd app
+npm run deploy
+```
+
+El worker se llama `astro-match`. El landing sigue en `astro-5to`. No comparten despliegue.
+
+## Guía de diseño
+
+Aquí se deja cada pieza visual con el nombre exacto, y aquí se ve qué falta.
 
 ## Qué es la app
 
