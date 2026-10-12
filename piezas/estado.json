@@ -1,0 +1,21 @@
+{
+  "autor": "Brainiac X",
+  "como": "El diseñador cambia pendiente por listo cuando el archivo está en su carpeta, con el nombre exacto.",
+  "piezas": [
+    { "id": "entrada-fondo", "pantalla": "entrada", "archivo": "piezas/entrada/fondo.webp", "estado": "pendiente" },
+    { "id": "entrada-grano", "pantalla": "entrada", "archivo": "piezas/entrada/grano.webp", "estado": "pendiente" },
+    { "id": "entrada-brillo-violeta", "pantalla": "entrada", "archivo": "piezas/entrada/brillo-violeta.webp", "estado": "pendiente" },
+    { "id": "entrada-brillo-brasa", "pantalla": "entrada", "archivo": "piezas/entrada/brillo-brasa.webp", "estado": "pendiente" },
+    { "id": "entrada-logo", "pantalla": "entrada", "archivo": "piezas/entrada/logo.webp", "estado": "pendiente" },
+    { "id": "entrada-lockup", "pantalla": "entrada", "archivo": "piezas/entrada/lockup.webp", "estado": "pendiente" },
+    { "id": "entrada-orbital", "pantalla": "entrada", "archivo": "piezas/entrada/orbital.webp", "estado": "pendiente" },
+    { "id": "entrada-rotativa", "pantalla": "entrada", "archivo": "piezas/entrada/rotativa.webp", "estado": "pendiente" },
+    { "id": "entrada-bobina", "pantalla": "entrada", "archivo": "piezas/entrada/bobina.webp", "estado": "pendiente" },
+    { "id": "entrada-pluma", "pantalla": "entrada", "archivo": "piezas/entrada/pluma.webp", "estado": "pendiente" },
+    { "id": "app-marca-match", "pantalla": "inicio", "archivo": "piezas/app/marca-match.webp", "estado": "pendiente" },
+    { "id": "app-icono-noticias", "pantalla": "inicio", "archivo": "piezas/app/icono-noticias.svg", "estado": "pendiente" },
+    { "id": "app-icono-evento", "pantalla": "inicio", "archivo": "piezas/app/icono-evento.svg", "estado": "pendiente" },
+    { "id": "match-vacio", "pantalla": "match", "archivo": "piezas/match/vacio.webp", "estado": "pendiente" },
+    { "id": "match-sello", "pantalla": "match", "archivo": "piezas/match/sello.webp", "estado": "pendiente" }
+  ]
+}
